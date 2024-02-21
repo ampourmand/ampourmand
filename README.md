@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ampourmand
 - 👀 I’m interested in Machine Learning and Artificial Intellingence. 
 - 🌱 I’m currently learning Object Oriented Programming.
-- 💞️ I’m looking to collaborate on Java and Python projects.
+- 💻 I’m looking to collaborate on Java and Python projects.
 - 📫 How to reach me: Email: apourmand2@gmail.com
 
 <!---
