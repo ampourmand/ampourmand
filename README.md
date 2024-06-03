@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Pourmand!
 - 👀 I’m interested in Machine Learning and Artificial Intellingence. 
-- 🌱 I’m currently learning Object Oriented Programming.
+- 🌱 I’m currently learning Data Structures & Algorithms.
 - 💻 I’m looking to collaborate on Java and Python projects.
 - 📫 How to reach me: Email: pourmand@terpmail.umd.edu
 
