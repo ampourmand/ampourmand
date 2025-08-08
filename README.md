@@ -12,5 +12,3 @@ I'm an iOS developer focused on building clean, functional, and intuitive apps u
 - Clean architecture & design patterns
 - Exploring DevOps tools to support mobile CI/CD
 - Learning Swift Package Manager and test automation
-
-Let’s connect and build something awesome.
