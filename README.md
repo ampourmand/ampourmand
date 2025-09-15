@@ -5,7 +5,6 @@ I'm an iOS developer focused on building clean, functional, and intuitive apps u
 ## 🛠️ Currently Building
 - **Inventario** – a lightweight inventory management app to track personal and small business assets
 - Backend integration using RESTful APIs
-- Tools like Xcode, Postman, Docker, and GitHub Actions to support dev workflows
 
 ## 💡 Interests
 - iOS performance optimization and accessibility
